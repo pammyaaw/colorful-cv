@@ -1,0 +1,20 @@
+
+hr{
+   border-style: none;
+  border-bottom-style: dotted;
+  width: 10%;
+  border-color: grey;
+  border-width: 5px;
+}
+body {
+  background-color: #94B49F;
+}
+h1{
+  color: #7A4495;
+}
+h3{
+  color:  #7A4495;
+}
+.name:hover{
+  background-color:gold;
+}
